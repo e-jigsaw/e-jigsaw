@@ -38,7 +38,7 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
-					animation: container 4s steps(2, end) infinite;
+					animation: container 2s steps(2, end) infinite;
 				}
 				.f {
 					display: grid;
