@@ -47,7 +47,7 @@
 				}
 				.yellow {
 					background-color: yellow;
-					animation: y 10s 5s linear infinite;
+					animation: y 10s 2s linear infinite;
 				}
 				.cyan {
 					background-color: cyan;
