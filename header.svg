@@ -34,6 +34,20 @@
 				.white {
 					background-color: white;
 				}
+				@keyframes w {
+					0% {
+						transform: translate(0, 0);
+					}
+					50% {
+						transform: translate(-80%, 0);
+					}
+					100% {
+						transform: translate(0, 0);
+					}
+				}
+				.white-bar {
+					animation: 13s linear infinite;
+				}
 				@keyframes y {
 					0% {
 						transform: translate(0, 0);
@@ -107,7 +121,7 @@
 			</style>
 			<div class="container">
 				<div class="f">
-					<div class="white"></div>
+					<div class="white white-bar"></div>
 					<div class="yellow"></div>
 					<div class="cyan"></div>
 					<div class="green"></div>
