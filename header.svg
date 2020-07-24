@@ -77,6 +77,17 @@
 						color: white;
 					}
 				}
+				@keyframes a3 {
+					0% {
+						text-shadow: 0px 0px 0px;
+					}
+					25% {
+						text-shadow: -4px -4px 0px #07e643;
+					}
+					100% {
+						text-shadow: 0px 0px 0px;
+					}
+				}
 				h1 {
 					position: absolute;
 					top: 50%;
@@ -84,7 +95,7 @@
 					transform: translate(-50%,-50%);
 					font-size: 148px;
 					margin: 0;
-					animation: .3s a1 steps(3, end), .5s a2 steps(3, end);
+					animation: .3s a1 steps(3, end), .5s a2 steps(3, end), .2s a3 steps(3, end);
 					animation-iteration-count: infinite;
 				}
 			</style>
