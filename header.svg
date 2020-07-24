@@ -21,17 +21,6 @@
 						background-position: 0% 50%;
 					}
 				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
 				.container {
 					font-family:
 						system-ui,
@@ -50,7 +39,7 @@
 					margin: 0;
 					width: 100%;
 					height: 2000px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: radial-gradient(circle, rgba(63,94,251,1) 0%, #fcfa46 20%, rgba(252,70,70,1) 100%);
 					background-size: 600% 2000%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
