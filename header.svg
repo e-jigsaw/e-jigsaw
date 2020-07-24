@@ -17,17 +17,8 @@
 					0% {
 						transform: scale(1);
 					}
-					25% {
-						transform: scale(1.4);
-					}
-					35% {
-						transform: skew(10deg, 10deg);
-					}
-					75% {
-						transform: skew(-10deg, -10deg);
-					}
 					100% {
-						transform: scale(1.4);
+						transform: scale(4);
 					}
 				}
 				.container {
@@ -47,7 +38,7 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
-					animation: container 8s steps(5, end) infinite;
+					animation: container 8s linear infinite;
 				}
 				.f {
 					display: grid;
