@@ -28,6 +28,7 @@
 					color: white;
 					text-align: center;
 					animation: container 8s linear infinite;
+					position: relative;
 				}
 				.f {
 					display: grid;
@@ -62,6 +63,13 @@
 				}
 				.black {
 					background-color: black;
+				}
+				h1 {
+					position: aboslute;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%,-50%);
+					font-size: 148px;
 				}
 			</style>
 			<div class="container">
