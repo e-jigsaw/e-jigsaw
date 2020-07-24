@@ -55,12 +55,25 @@
 				.black {
 					background-color: black;
 				}
+				@keyframes h1 {
+					0% {
+						text-shadow: 0px 0px 0px;
+					}
+					25% {
+						text-shadow: 2px 2px 0px #eff28d;
+					}
+					100% {
+						text-shadow: 0px 0px 0px;
+					}
+				}
 				h1 {
 					position: absolute;
 					top: 50%;
 					left: 50%;
 					transform: translate(-50%,-50%);
 					font-size: 148px;
+					margin: 0;
+					animation: 4s infinite h1 steps(3, end);
 				}
 			</style>
 			<div class="container">
