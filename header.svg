@@ -83,7 +83,7 @@
 					0% {
 						text-shadow: 0px 0px 0px;
 					}
-					25% {
+					50% {
 						text-shadow: 4px 4px 0px #eff28d;
 					}
 				}
@@ -91,7 +91,7 @@
 					0% {
 						color: white;
 					}
-					45% {
+					50% {
 						color: black;
 					}
 					100% {
@@ -102,7 +102,7 @@
 					0% {
 						text-shadow: 0px 0px 0px;
 					}
-					25% {
+					50% {
 						text-shadow: -4px -4px 0px #07e643;
 					}
 				}
