@@ -38,7 +38,7 @@
 					height: 600px;
 					background: radial-gradient(circle, #fc46f8 0%, #fcfa46 20%, #8afc46 40%, #46FCE7 60%, #5546fc 80%, rgba(252,70,70,1) 100%);
 					background-size: 800% 600%;
-					animation: gradientBackground 10s ease infinite;
+					animation: gradientBackground 5s linear infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
