@@ -17,6 +17,15 @@
 					0% {
 						transform: scale(1);
 					}
+					25% {
+						transform: scale(1.4);
+					}
+					35% {
+						transform: skew(10deg, 10deg);
+					}
+					75% {
+						transform: skew(-10deg, -10deg);
+					}
 					100% {
 						transform: scale(1.4);
 					}
@@ -38,7 +47,7 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
-					animation: container 2s steps(2, end) infinite;
+					animation: container 8s steps(5, end) infinite;
 				}
 				.f {
 					display: grid;
