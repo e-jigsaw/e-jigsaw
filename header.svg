@@ -2,14 +2,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes container {
-					0% {
-						transform: rotateZ(0);
-					}
-					100% {
-						transform: rotateZ(360deg);
-					}
-				}
 				.container {
 					font-family:
 						system-ui,
@@ -27,7 +19,6 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
-					animation: container 8s linear infinite;
 					position: relative;
 				}
 				.f {
