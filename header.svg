@@ -23,12 +23,12 @@
 				.f {
 					display: grid;
 					grid-template-columns: repeat(7, 1fr);
-					height: 450px;
+					height: 480px;
 				}
 				.s {
 					display: grid;
 					grid-template-columns: 1.2fr 1fr 4.8fr;
-					height: 150px
+					height: 120px
 				}
 				.white {
 					background-color: white;
