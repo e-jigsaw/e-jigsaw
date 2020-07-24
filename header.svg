@@ -4,10 +4,13 @@
 			<style>
 				@keyframes white {
 					0% {
-						box-shadow: 15px 15px 0px 0 rgb(60, 194, 235);
+						box-shadow: inset -11px -10px 0px 0px yellow;
+					}
+					25% {
+						box-shadow: inset 11px 10px 0px 0px red;
 					}
 					100% {
-						box-shadow: 0;
+						box-shadow: 0 0 0;
 					}
 				}
 				.container {
@@ -40,7 +43,7 @@
 				}
 				.white {
 					background-color: white;
-					animation: white 1s infinite;
+					animation: white .1s steps(3, end) infinite;
 				}
 				.yellow {
 					background-color: yellow;
