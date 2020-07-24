@@ -84,7 +84,7 @@
 					transform: translate(-50%,-50%);
 					font-size: 148px;
 					margin: 0;
-					animation: .3s a1 steps(3, end), .5 a2 steps(3, end) infinite;
+					animation: .3s a1 steps(3, end), .5s a2 steps(3, end);
 				}
 			</style>
 			<div class="container">
