@@ -71,7 +71,7 @@
 				}
 				.red {
 					background-color: red;
-					animation: 13s r steps(3, end) infinite;
+					animation: 13s r steps(2, end) infinite;
 				}
 				.blue {
 					background-color: blue;
