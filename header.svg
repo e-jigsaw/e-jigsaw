@@ -60,7 +60,7 @@
 						text-shadow: 0px 0px 0px;
 					}
 					25% {
-						text-shadow: 2px 2px 0px #eff28d;
+						text-shadow: 4px 4px 0px #eff28d;
 					}
 					100% {
 						text-shadow: 0px 0px 0px;
