@@ -34,20 +34,6 @@
 				.white {
 					background-color: white;
 				}
-				@keyframes w {
-					0% {
-						transform: translate(0, 0);
-					}
-					50% {
-						transform: translate(-80%, 0);
-					}
-					100% {
-						transform: translate(0, 0);
-					}
-				}
-				.white-bar {
-					animation: 13s linear infinite;
-				}
 				@keyframes y {
 					0% {
 						transform: translate(0, 0);
@@ -72,8 +58,20 @@
 				.magenta {
 					background-color: magenta;
 				}
+				@keyframes r {
+					0% {
+						background-color: red;
+					}
+					50% {
+						background-color: black;
+					}
+					100% {
+						background-color: red;
+					}
+				}
 				.red {
 					background-color: red;
+					animation: .6s r 13s steps(3, end) infinite;
 				}
 				.blue {
 					background-color: blue;
