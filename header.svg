@@ -71,7 +71,7 @@
 				}
 				.red {
 					background-color: red;
-					animation: 13s r steps(2, end) infinite;
+					animation: 13s r steps(1, end) infinite;
 				}
 				.blue {
 					background-color: blue;
@@ -113,7 +113,7 @@
 					transform: translate(-50%,-50%);
 					font-size: 148px;
 					margin: 0;
-					animation: .3s a1 steps(3, end), .5s a2 .3s steps(3, end), .2s a3 .8s steps(3, end);
+					animation: .3s a1 steps(1, end), .5s a2 .3s steps(1, end), .2s a3 .8s steps(1, end);
 					animation-iteration-count: infinite;
 				}
 			</style>
