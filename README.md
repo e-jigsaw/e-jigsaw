@@ -16,7 +16,7 @@
 	<h3>FW</h3>
 	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 	<h3>RUNTIME</h3>
-	<img src="https://skillicons.dev/icons?i=nodejs" />
+	<img src="https://skillicons.dev/icons?i=nodejs,deno" />
 	<h3>BUNDLER</h3>
 	<img src="https://skillicons.dev/icons?i=vite,webpack" />
 	<h3>DEPOY</h3>
