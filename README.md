@@ -1,8 +1,8 @@
 <div align="center">
 	<h3>A Web Application/Service Creator. Coming Soon, LLC CEO.</h3>
 	<br>
-	<a href="https://kbys.tk/y">
-	  <img src="https://ricapitolare.vercel.app/svg?url=https://kbys.tk/y#.svg" />
+	<a href="https://jgs.me">
+	  <img src="https://ricapitolare.vercel.app/svg?url=https://jgs.me#.svg" />
 	</a>
 	<br>
 	<h3>WEB</h3>
