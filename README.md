@@ -18,7 +18,7 @@
 	<h3>RUNTIME</h3>
 	<img src="https://skillicons.dev/icons?i=bun,nodejs,workers" />
 	<h3>BUNDLER</h3>
-	<img src="https://skillicons.dev/icons?i=vite,webpack" />
+	<img src="https://skillicons.dev/icons?i=vite" />
 	<h3>DEPOY</h3>
 	<img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp,netlify,vercel" />
 </div>
