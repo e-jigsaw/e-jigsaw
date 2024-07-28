@@ -16,11 +16,9 @@
 	<h3>FW</h3>
 	<img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind" />
 	<h3>RUNTIME</h3>
-	<img src="https://skillicons.dev/icons?i=nodejs,deno" />
+	<img src="https://skillicons.dev/icons?i=bun,nodejs,workers" />
 	<h3>BUNDLER</h3>
 	<img src="https://skillicons.dev/icons?i=vite,webpack" />
 	<h3>DEPOY</h3>
-	<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel" />
-	<h3>BaaS</h3>
-	<img src="https://skillicons.dev/icons?i=supabase" />
+	<img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp,netlify,vercel" />
 </div>
